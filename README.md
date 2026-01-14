@@ -6,6 +6,9 @@ I enjoy turning ideas into real products, writing clean and maintainable code, a
 
 ## 🛠️ Tool & Tech
 Frontend: React.js, HTML, CSS, Bootstrap
+<br>
 Backend: Laravel, PHP
+<br>
 Database: MySQL
+<br>
 Tools: Git, GitHub, VS Code
