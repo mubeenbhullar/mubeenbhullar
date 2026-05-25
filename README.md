@@ -5,7 +5,7 @@ I’m a Full-Stack Web Developer with a strong interest in building modern, scal
 I enjoy turning ideas into real products, writing clean and maintainable code, and continuously learning new technologies to improve my skills. Currently, I am focusing on improving my development skills and exploring best practices in web development.
 
 ## 🛠️ Tool & Tech
-Frontend: React.js, HTML, CSS, Bootstrap, Tailwind
+Frontend: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind
 <br>
 Backend: Laravel, PHP
 <br>
